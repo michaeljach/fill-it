@@ -1,0 +1,10 @@
+preferred_syntax = :sass
+http_path = '/'
+css_dir = 'Fill-it/themes/modern'
+sass_dir = 'Fill-it/themes/modern/sass'
+images_dir = 'web/images'
+fonts_dir = 'Fill-it/themes/modern/fonts'
+fonts_path = 'Fill-it/themes/modern/fonts'
+relative_assets = true
+line_comments = true
+# output_style = :compressed
